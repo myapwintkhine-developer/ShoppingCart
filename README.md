@@ -38,7 +38,7 @@ ADD ITEM TO CART
 POST /api/cart/items
 Request Body:
 {
-  "productId": "92a1f719-a34a-4adc-b105-261354246aee",
+  "productId": "product-id",
   "quantity": 2
 }
 
